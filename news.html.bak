@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!--
+	ZeroFour by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Latest News - CPLS Lab @ UCSB Linguistics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="no-sidebar is-preload">
+    <div id="page-wrapper">
+      <!-- Header Wrapper -->
+      <div id="header-wrapper">
+        <div class="container">
+          <!-- Header -->
+          <header id="header">
+            <div class="inner">
+              <!-- Logo -->
+              <h1><a href="index.html" id="logo">CPSL Lab@UCSB</a></h1>
+              <!-- Nav -->
+              <nav id="nav">
+                <ul>
+                  <li><a class="icon solid fa-ear-listen" href="about.html"><span>about
+                        us<br>
+                      </span></a> </li>
+                  <li> <a href="research.html" class="icon fa-chart-bar"><span>research</span></a>
+                    <ul>
+                      <li><a href="pub.html">Publications</a></li>
+                      <li><a href="rp1.html">Research project 1</a></li>
+                      <li><a href="rp2.html">Research project 2</a></li>
+                      <li> <a href="rp3.html">Research project 3</a> </li>
+                    </ul>
+                  </li>
+                  <li><a class="icon solid fa-user" href="people.html"><span>people</span></a></li>
+                  <li><a class="icon solid fa-circle-info" href="#"><span>info
+                        for ... </span> </a>
+                    <ul>
+                      <li><a href="info_prt.html">Experiment participants</a></li>
+                      <li><a href="info_ug.html">Undergraduates</a></li>
+                      <li><a href="info_pg.html">Prospective graduate students</a></li>
+                    </ul>
+                  </li>
+                  <li><a class="icon solid fa-newspaper" href="news.html"><span>news<br>
+                      </span></a></li>
+                </ul>
+              </nav>
+            </div>
+          </header>
+        </div>
+      </div>
+      <!-- Main Wrapper -->
+      <div id="main-wrapper">
+        <div class="wrapper style2">
+          <div class="inner">
+            <div class="container">
+              <div id="content">
+                <!-- Content -->
+                <article>
+                  <header class="major">
+                    <h2>Latest news</h2>
+                    <p>Keep up!</p>
+                  </header>
+                  <span class="image featured"><img src="images/news.jpg" alt=""></span>
+                  <section class="box article-list">
+                    <!-- Excerpt -->
+                    <article class="box excerpt"> <a href="#" class="image left"><img
+                          src="images/rainbow-light.jpg" alt=""> </a>
+                      <div>
+                        <header> <span class="date">July 24</span>
+                          <h3><a href="#">We published a paper!<br>
+                            </a></h3>
+                        </header>
+                        <p>Phasellus quam turpis, feugiat sit amet ornare in,
+                          hendrerit in lectus semper mod quisturpis nisi
+                          consequat etiam lorem. Phasellus quam turpis, feugiat
+                          et sit amet ornare in, hendrerit in lectus semper mod
+                          quis eget mi dolore.</p>
+                      </div>
+                    </article>
+                    <!-- Excerpt -->
+                    <article class="box excerpt"> <a href="#" class="image left"><img
+                          src="images/network.jpg" alt=""></a>
+                      <div>
+                        <header> <span class="date">July 18</span>
+                          <h3>We like brains!</h3>
+                        </header>
+                        <p>Phasellus quam turpis, feugiat sit amet ornare in,
+                          hendrerit in lectus semper mod quisturpis nisi
+                          consequat etiam lorem. Phasellus quam turpis, feugiat
+                          et sit amet ornare in, hendrerit in lectus semper mod
+                          quis eget mi dolore.</p>
+                      </div>
+                    </article>
+                    <!-- Excerpt -->
+                    <article class="box excerpt"> <a href="#" class="image left"><img
+                          src="images/convo_2.jpg" alt=""></a>
+                      <div>
+                        <header> <span class="date">July 14</span>
+                          <h3><a href="#">When are we getting a sound booth?<br>
+                            </a></h3>
+                        </header>
+                        <p>Phasellus quam turpis, feugiat sit amet ornare in,
+                          hendrerit in lectus semper mod quisturpis nisi
+                          consequat etiam lorem. Phasellus quam turpis, feugiat
+                          et sit amet ornare in, hendrerit in lectus semper mod
+                          quis eget mi dolore.</p>
+                      </div>
+                    </article>
+                  </section>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer Wrapper -->
+      <div id="footer-wrapper">
+        <footer id="footer" class="container">
+          <div class="row">
+            <div class="col-6 col-12-medium imp-medium">
+              <!-- Contact -->
+              <section>
+                <h2>Get in touch</h2>
+                <div>
+                  <div class="row">
+                    <div class="col-6 col-12-small">
+                      <dl class="contact">
+                        <dt>Twitter</dt>
+                        <dd><a href="#">@ucsb_cpls</a></dd>
+                        <dt>Facebook</dt>
+                        <dd><a href="#">facebook.com/ucsb_cpls</a></dd>
+                        <dt>GitHub</dt>
+                        <dd><a href="https://github.com/UCSB-CPLS-lab">UCSB-CPLS-lab</a></dd>
+                        <dt>Email</dt>
+                        <dd><a href="#">ling-cpls (at) ucsb.com</a></dd>
+                      </dl>
+                    </div>
+                    <div class="col-6 col-12-small">
+                      <dl class="contact">
+                        <dt>Address</dt>
+                        <dd> 1234 South Hall<br>
+                          University of California Santa Barbara 00000-0000<br>
+                          USA </dd>
+                        <dt>Phone</dt>
+                        <dd>(000) 000-0000</dd>
+                      </dl>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+            <div class="col-12">
+              <div id="copyright">
+                <ul class="menu">
+                  <li>©2021 UCSB CPLS Lab. All rights reserved</li>
+                  <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
